@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 int main()
 {
     
@@ -11,10 +14,6 @@ int main()
 
 
 
-
-
-
-
-                                                                        cout << "No more bottles of pop on the wall";
-    return 0;
+                                                                                cout << "No more bottles of pop on the wall";
+    return 0; 
 }
