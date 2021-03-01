@@ -4,7 +4,7 @@ class HelloWorld {
     
     for(int i = 99; i >= 1; i--) {
         
-        Console.WriteLine(i + " bottles of pop on the wall");
+        Console.WriteLine($"{i} bottles of pop on the wall");
         Console.WriteLine("Take one down and pass it around");
     }
     
